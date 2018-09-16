@@ -11,6 +11,12 @@ $ npm install # Or yarn install
 # serve with hot reload at localhost:3000
 $ npm run dev
 
+# lint
+$ npm run lint
+
+# test
+$ npm run test
+
 # build for production and launch server
 $ npm run build
 $ npm start
