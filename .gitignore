@@ -1,0 +1,33 @@
+.
+..
+.DS_Store
+.tmp
+.firebase
+node_modules
+release
+
+# Log files
+npm-debug.log*
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+# local env files
+.env.local
+.env.*.local
+.envrc
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+*.sw*
+
+/tests/unit/coverage/
